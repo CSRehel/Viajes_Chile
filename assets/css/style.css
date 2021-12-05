@@ -4,5 +4,22 @@ body{
 }
 
 .color{
-    background-color: aqua;
+    background-color: #17a3b8;
+    text-align: center;
 }
+
+.sec1{
+    color: white;
+}
+
+.icon{
+    font-size: 2em;
+    color: white;
+    padding: 5px;
+}
+
+.hr{
+    border-top: solid 2px #17a3b8;
+}
+
+
