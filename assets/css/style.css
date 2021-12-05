@@ -1,3 +1,8 @@
 body{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Baloo 2', cursive;
+    background-color: #000;
+}
+
+.color{
+    background-color: aqua;
 }
