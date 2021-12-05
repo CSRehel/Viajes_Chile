@@ -8,13 +8,13 @@ body{
     text-align: center;
 }
 
-.sec1{
-    color: white;
+.secolor{
+    color: #fff;
 }
 
 .icon{
     font-size: 2em;
-    color: white;
+    color: #fff;
     padding: 5px;
 }
 
@@ -22,4 +22,8 @@ body{
     border-top: solid 2px #17a3b8;
 }
 
+.card-body{
+    background-color: #17a3b8;
+    color: #fff;
+}
 
