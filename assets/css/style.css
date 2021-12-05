@@ -3,6 +3,10 @@ body{
     background-color: #000;
 }
 
+.bg-skyblue{
+    background-color: #17a3b8;
+}
+
 .color{
     background-color: #17a3b8;
     text-align: center;
@@ -29,4 +33,18 @@ body{
 
 .lista li{
     display: inline-block;
+}
+
+.lista a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.lista a:hover{
+    color: rgb(0, 0, 0);
+}
+
+footer{
+    background-color: #17a3b8;
+    color: #fff;
 }
